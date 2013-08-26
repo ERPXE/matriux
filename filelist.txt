@@ -1,0 +1,7 @@
+.:
+filelist.txt
+initrd.img
+matriuxmain.menu
+matriux.menu
+matriux.png
+vmlinuz
