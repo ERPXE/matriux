@@ -1,9 +1,6 @@
 MENU BEGIN MATRIUX
+MENU TITLE Matriux - Krypton 1.2 
 MENU LABEL ^Matriux - Krypton 1.2 
-# ------====> Include Menu Settings <====------
-MENU INCLUDE er/menuinc/header.module
-
-# ------====> Set Specific Page Settings <====------
 MENU BACKGROUND er/plugins/matriux/matriux.png
 
 MENU INCLUDE er/plugins/matriux/matriuxmain.menu
